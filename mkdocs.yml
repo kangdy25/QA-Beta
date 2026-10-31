@@ -1,0 +1,5 @@
+site_name: QA Beta — release-2
+nav:
+  - Home: index.md
+  - Deploy: operations/deploy.md
+  - Rollback: operations/rollback.md
